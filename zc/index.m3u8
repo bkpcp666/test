@@ -3,10 +3,10 @@
 #EXT-X-TARGETDURATION:5
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:5.000000,
-http://jsd.vxo.im/gh/bkpcp666/test/zc/index0.ts
+http://jsd.vxo.im/gh/bkpcp666/test@refs/heads/main/zc/index0.ts
 #EXTINF:5.000000,
-http://jsd.vxo.im/gh/bkpcp666/test/zc/index1.ts
+http://jsd.vxo.im/gh/bkpcp666/test@refs/heads/main/zc/index1.ts
 #EXTINF:5.000000,
-http://jsd.vxo.im/gh/bkpcp666/test/zc/index2.ts
+http://jsd.vxo.im/gh/bkpcp666/test@refs/heads/main/zc/index2.ts
 #EXTINF:3.000000,
-http://jsd.vxo.im/gh/bkpcp666/test/zc/index3.ts
+http://jsd.vxo.im/gh/bkpcp666/test@refs/heads/main/zc/index3.ts
