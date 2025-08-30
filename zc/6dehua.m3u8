@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:5.000000,
+https://gcore.jsdelivr.net/gh/bkpcp666/test/zc/6dehua0.ts
+#EXTINF:5.000000,
+https://gcore.jsdelivr.net/gh/bkpcp666/test/zc/6dehua1.ts
+#EXTINF:5.000000,
+https://gcore.jsdelivr.net/gh/bkpcp666/test/zc/6dehua2.ts
+#EXTINF:3.000000,
+https://gcore.jsdelivr.net/gh/bkpcp666/test/zc/6dehua3.ts
